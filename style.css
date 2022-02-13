@@ -1,0 +1,44 @@
+.jumbotron{
+    margin:5%;
+  }
+  
+  .jumbotron h1{
+    font-weight:bold;
+    margin-bottom:-12px;
+  }
+  
+  #namehead{
+    color:pink;
+
+  }
+  
+  img{
+    margin:0 auto;
+    width:90%;
+    }
+  
+  .caption{
+    width:90%;
+    background-color:rgb(200,200,200);
+    margin:0 auto;
+    border-radius:5px;
+    
+  }
+  
+  span{
+      color: salmon;
+      font-weight:bold;
+  }
+  
+  #imageronaldo{
+    height:750px;
+    width: 500px;
+  }
+  
+  .desc{
+    color:red ;
+    font-weight:bold;
+    font-style:italic;
+}
+
+  
